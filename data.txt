@@ -1,0 +1,3 @@
+   Halo, ini adalah isi file teks data.txt
+   Baris kedua: Tugas 1 Sistem Operasi - Pthreads
+   Baris ketiga: dibaca oleh Thread 3
